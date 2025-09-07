@@ -1,0 +1,27 @@
+/* static/style.css (Minimal version for Bootstrap projects) */
+
+/* You can still import custom fonts if you wish */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+/* Apply the font and a consistent background color to the body */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa; /* A light gray that matches Bootstrap's aesthetic */
+}
+
+/* This file is now ready for any custom overrides you want to make.
+  For example, if you wanted to change Bootstrap's primary blue color,
+  you could add a rule like this:
+
+  .btn-primary {
+    background-color: #005A9C; 
+    border-color: #005A9C;
+  }
+
+  .btn-primary:hover {
+    background-color: #004b80;
+    border-color: #004b80;
+  }
+
+  For now, keeping it minimal is best.
+*/
