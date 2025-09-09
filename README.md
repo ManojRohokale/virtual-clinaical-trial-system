@@ -73,7 +73,7 @@ A sophisticated web-based application that streamlines the clinical trial screen
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/clinical-trial-app1.git
+   git clone https://github.com/ManojRohokale/clinical-trial-app1.git
    cd clinical-trial-app1
    ```
 
@@ -154,21 +154,8 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/clinical-trial-app1](https://github.com/yourusername/clinical-trial-app1)
 
-## 🙏 Acknowledgments
-
-- [Flask](https://flask.palletsprojects.com/) - The web framework used
-- [scikit-learn](https://scikit-learn.org/) - Machine learning library
-- [MySQL](https://www.mysql.com/) - Database management
-- [Font Awesome](https://fontawesome.com/) - Icons
-- [Shields.io](https://shields.io/) - Badges
-- All contributors who have helped shape this project
